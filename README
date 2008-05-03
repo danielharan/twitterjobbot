@@ -1,0 +1,17 @@
+Twitter Job Bot
+by Daniel Haran
+
+Description
+
+https://twitter.com/jobbot/
+
+  DM me with location (L:mycity) and keywords (e.g. senior developer) for jobs you want to hear about. 
+  I DM you as soon as they are published.
+
+Details / Implementation checklist
+
+-subscribe to all tweets hash-tagged #jobs
+-send new followers command info
+-listen to DM
+-send appropriately filtered DMs
+
